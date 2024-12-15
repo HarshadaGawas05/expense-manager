@@ -13,16 +13,16 @@
 - **Graphical Insights**: Analyze your income and expenses over time with an easy-to-understand pie chart.  
 - **User-Friendly Interface**: Clean, modern UI for smooth and intuitive user experience.  
 
-## Snapshots  
-> Add your app screenshots here:  
+## Snapshots   
 - **Dashboard View**  
 - **Add Income Screen**  
 - **Add Expense Screen**  
 - **Graphical Insights (Pie Chart)**  
 
-Example:  
-![App Screenshot 1](![Dashboard](https://github.com/user-attachments/assets/c670c4fb-57c0-4144-8348-297f24286384))  
-![App Screenshot 2](placeholder-for-screenshot.png)  
+Example:
+![Dashboard](https://github.com/user-attachments/assets/c670c4fb-57c0-4144-8348-297f24286384)
+![Expense Screen](https://github.com/user-attachments/assets/6a7e92df-f73a-423b-95dc-e5bcfa79bf4d)
+![Income Screen](https://github.com/user-attachments/assets/44c05bba-57bf-438e-9400-0985b1d9f81d)
 
 ## Tech Stack  
 - **Android Studio**: IDE used for app development.  
