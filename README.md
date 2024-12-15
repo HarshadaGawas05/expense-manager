@@ -1,7 +1,5 @@
 # Expense Manager  
 
-![Expense Manager Logo](placeholder-for-logo.png)  
-
 **Expense Manager** is a simple yet powerful Android application that helps you manage your income and expenses. With this app, you can track your spending patterns, visualize your finances through charts, and make informed financial decisions.  
 
 ## Features  
@@ -20,9 +18,9 @@
 - **Graphical Insights (Pie Chart)**  
 
 Example:
-![Dashboard](https://github.com/user-attachments/assets/c670c4fb-57c0-4144-8348-297f24286384)
-![Expense Screen](https://github.com/user-attachments/assets/6a7e92df-f73a-423b-95dc-e5bcfa79bf4d)
-![Income Screen](https://github.com/user-attachments/assets/44c05bba-57bf-438e-9400-0985b1d9f81d)
+<img src="https://github.com/user-attachments/assets/c670c4fb-57c0-4144-8348-297f24286384" alt="Dashboard" width="100"/>
+<img src="https://github.com/user-attachments/assets/6a7e92df-f73a-423b-95dc-e5bcfa79bf4d" alt="Expense Screen" width="100"/>
+<img src="https://github.com/user-attachments/assets/44c05bba-57bf-438e-9400-0985b1d9f81d" alt="Income Screen" width="100"/>
 
 ## Tech Stack  
 - **Android Studio**: IDE used for app development.  
