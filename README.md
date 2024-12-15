@@ -21,7 +21,7 @@
 - **Graphical Insights (Pie Chart)**  
 
 Example:  
-![App Screenshot 1](placeholder-for-screenshot.png)  
+![App Screenshot 1](![Dashboard](https://github.com/user-attachments/assets/c670c4fb-57c0-4144-8348-297f24286384))  
 ![App Screenshot 2](placeholder-for-screenshot.png)  
 
 ## Tech Stack  
